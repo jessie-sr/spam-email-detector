@@ -34,7 +34,7 @@ The KNN algorithm involves functions for counting word frequency, calculating Eu
 The `main()` function orchestrates the process, calling functions for data loading, preprocessing, splitting, and running the KNN classifier.
 
 ### Output and Conclusion
-With a K value of 7, the classifier achieves a 89.2% accuracy rate on a test data size of 1602 emails. However, it's noted that the process is time-intensive due to the high time complexity.
+With a K value of 7, the classifier achieves a 89.2% accuracy rate on a test data size of 1582 emails. However, it's noted that the process is time-intensive due to the high time complexity.
 
 ### How to Run the Program
 To run the Spam Email Detector:
